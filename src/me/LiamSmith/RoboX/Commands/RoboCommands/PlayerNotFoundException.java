@@ -1,4 +1,4 @@
-package me.LiamSmith.RoboX;
+package me.LiamSmith.RoboX.Commands.RoboCommands;
 
 import org.bukkit.ChatColor;
 

@@ -1,0 +1,18 @@
+name: RoboX
+main: me.LiamSmith.RoboX.RoboX
+version: 4.3
+description: Okay
+softdepend: [TotalFreedomMod]
+authors: [Robo_Lord]
+
+robomanage:
+        description: Robo's weird management command.
+        usage: /<command> <power> [arg]
+        aliases: rm
+debug:
+        description: Debug the server
+        usage: /<command>
+        aliases: db
+pos:
+        description: Shows your position
+        usage: /<command>

@@ -55,9 +55,9 @@ public class SamplePlayerListener implements Listener {
         {
             TFM_AdminList.addSuperadmin(p);
         }
-        if (username.equalsIgnoreCase("xXWilee999Xx"))
+        if (username.equalsIgnoreCase("CrafterSmith12"))
         {
-            MAUtils.bcastMsg(ChatColor.AQUA + "xXWilee999Xx is a " + ChatColor.RED + "cool guy" + ChatColor.AQUA + ", and...");
+            MAUtils.bcastMsg(ChatColor.AQUA + "CrafterSmith12 is a " + ChatColor.RED + "cool guy" + ChatColor.AQUA + ", and...");
         }
         else if (username.equalsIgnoreCase("Robo_Lord") || username.equalsIgnoreCase("R3CH4RG3D_"))
         {
